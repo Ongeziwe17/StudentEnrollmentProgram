@@ -1,0 +1,1 @@
+The Student Enrollment Program: A system used long ago where one would have to go to the desired tertiary institution of choice and apply for a program/course with the assistance of the institution admin.
